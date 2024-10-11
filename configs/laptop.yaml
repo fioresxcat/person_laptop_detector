@@ -1,0 +1,8 @@
+train:
+  - /nfs-data2/tungtx2/class_surveillance/train_detector/data/laptop/laptop_dataset/
+  - /nfs-data2/tungtx2/class_surveillance/train_detector/data/laptop/coco/
+val:
+  - /nfs-data2/tungtx2/class_surveillance/train_detector/data/laptop/laptop_dataset/
+
+names:
+  0: laptop
